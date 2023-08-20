@@ -121,13 +121,13 @@ export const navigations = [
     path: '/survey/survey-list',
     iconText: 'S',
   },
-  {
-    name: 'Screen Saver',
-    icon: 'drawing',
-    showTo: '',
-    path: '/survey/survey-list',
-    iconText: 'S',
-  },
+  // {
+  //   name: 'Screen Saver',
+  //   icon: 'drawing',
+  //   showTo: '',
+  //   path: '/survey/survey-list',
+  //   iconText: 'S',
+  // },
 
   // {
   //   name: 'Drawing',
